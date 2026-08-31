@@ -18,6 +18,7 @@ Live: **https://daemeous.github.io/sthelens/**
 | Burton & Uttoxeter | https://daemeous.github.io/burton-uttoxeter/ |
 | Stone, Great Wyrley & Penkridge | https://daemeous.github.io/stone/ |
 | Barnsley, Penistone & Stocksbridge | https://daemeous.github.io/barnsley/ |
+| Shipley + Keighley and Ilkley | https://daemeous.github.io/shipley/ |
 
 Related project — **[Pothole Watch](https://github.com/Daemeous/stafford-potholes)**, same visual style, separate Sheet/Apps Script backend.
 
