@@ -20,6 +20,7 @@ Live: **https://daemeous.github.io/sthelens/**
 | Barnsley, Penistone & Stocksbridge | https://daemeous.github.io/barnsley/ |
 | Shipley + Keighley and Ilkley | https://daemeous.github.io/shipley/ |
 | Bassetlaw | https://daemeous.github.io/bassetlaw/ |
+| East Grinstead and Uckfield | https://daemeous.github.io/east-grinstead-uckfield/ |
 
 Related project — **[Pothole Watch](https://github.com/Daemeous/stafford-potholes)**, same visual style, separate Sheet/Apps Script backend.
 
